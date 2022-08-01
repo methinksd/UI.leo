@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UI.leo</string>
+    <string name="todo">TODO</string>
+    <string name="change_food">Change food</string>
+</resources>
